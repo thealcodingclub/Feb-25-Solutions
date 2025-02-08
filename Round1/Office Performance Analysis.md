@@ -17,20 +17,19 @@ The HR department frequently needs to calculate the total productivity of an emp
 ## Input Format
 
 1. The first line contains two integers, `n` and `q`:
-   - `n`: The number of days for which performance data is recorded (`1 ≤ n ≤ 2 × 10^5`).
+   - `n`: The number of days for which performance data is recorded (1 ≤ n ≤ 2 × $10^5$).
    - `q`: The number of queries HR wants to process (`1 ≤ q ≤ 2 × 10^5`).
 
-2. The second line contains `n` integers, `x_1, x_2, ..., x_n`, representing the performance scores for each day (`1 ≤ x_i ≤ 10^9`).
+2. The second line contains `n` integers, `x[0], x[1], x[2], ..., x[n]`, representing the performance scores for each day (`1 ≤ x_i ≤ 10^9`).
 
 3. Each of the next `q` lines contains two integers `a` and `b` (`1 ≤ a ≤ b ≤ n`), representing a query. For each query, HR needs to calculate the total productivity from day `a` to day `b` (inclusive).
 
 ---
 
 ## Constraints
-
-- `1 ≤ n, q ≤ 2 × 10^5`
-- `1 ≤ x_i ≤ 10^9`
-- `1 ≤ a ≤ b ≤ n`
+- $1 \leq n, q \leq 2 \times 10^5$
+- $1 \leq x[i] \leq 10^9$
+- $1 \leq a \leq b \leq n$
 
 ---
 
