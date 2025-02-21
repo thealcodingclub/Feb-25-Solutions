@@ -13,7 +13,9 @@ Round 1:
 
 Round 2:
 
-###### Coming soon!
+- [Goat Latin](/Round2/Goat%20Latin.md)
+- [Maximum Product Subarray](/Round2/Maximum%20Product%20Subarray.md)
+- [Longest Collatz Chain](/Round2/Longest%20Collatz%20Chain.md)
 
 Round 3:
 
