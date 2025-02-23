@@ -19,4 +19,7 @@ Round 2:
 
 Round 3:
 
-###### Coming soon!
+- [Max Cut](/Round3/Max%20Cut.md)
+- [The Labrynth of Numbers](/Round3/The%20Labrynth%20of%20Numbers.md)
+- [K-th Smallest Subarray Product](/Round3/K-th%20Smallest%20Subarray%20Product.md)
+- [Social Media Engagement Analysis](/Round3/Social%20Media%20Engagement%20Analysis.md)
